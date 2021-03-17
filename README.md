@@ -1,2 +1,2 @@
 # CarSystem
-Demo car system application using java OOP
+A demo car system application using java OOP
